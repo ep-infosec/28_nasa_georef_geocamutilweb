@@ -1,0 +1,4 @@
+geocamUtil.greeting:"hello"
+goo:{"a": 1, "b": 2}
+geocamUtil.greeting:"how are you?"
+goo:{"a": 7, "b": 10}
